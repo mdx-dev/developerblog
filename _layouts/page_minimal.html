@@ -37,7 +37,7 @@
   <article>
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
-      {{ content }}
+			{{ content | remove: '<p>' | remove: '</p>' }}
     </div><!-- /.article-wrap -->
     {% if site.disqus_shortname and page.comments %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
