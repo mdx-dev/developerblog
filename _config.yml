@@ -1,49 +1,53 @@
-title:            Site Title
-description:      Describe your website.
+title:            The Dev's of Vitals
+description:      Developer blog.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
-disqus_shortname: 
+disqus_shortname:
 
 # Owner/author information
-owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackoverflow: 
-  linkedin:       
-  instagram:      
-  lastfm:         
-  tumblr: 
-  pinterest: 
-  foursquare: 
-  steam: 
-  dribbble: 
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+author_ids: [blainesch, meetmicah, seven1m]
+authors:
+  blainesch:
+    name: Blaine Schmeisser
+    display_name: BlaineSch
+    gravatar: http://www.gravatar.com/avatar/ffebdf905fae3278a260ed03c9d165c7
+    email: blainesch@gmail.com
+    web: https://github.com/blainesch
+    twitter: blainesch
+    github: blainesch
+    bio: "hello world"
+  meetmicah:
+    name: Micah Choquette
+    display_name: Micah
+    gravatar: http://www.gravatar.com/avatar/d1417fb0a0a205079e949a3ecfaee5f0
+    email: osugodfan@gmail.com
+    web: http://www.goingupward.com/
+    twitter: meetmicah
+    github: meetmicah
+    bio: "hello world"
+  seven1m:
+    name: Tim Morgan
+    display_name: Timmy
+    gravatar: http://www.gravatar.com/avatar/c9badb8b30cf30d420552e026a921499
+    email: tim@timmorgan.org
+    web: https://github.com/seven1m
+    twitter: seven1m
+    github: seven1m
+    bio: "hello world"
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics:
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:        
+bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
+  - title: Devs
+    url: /devs/
   - title: Posts
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -62,7 +66,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10

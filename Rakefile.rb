@@ -1,6 +1,7 @@
 require "rubygems"
 require "bundler/setup"
 require "stringex"
+require "digest/md5"
 
 ## -- Config -- ##
 
@@ -73,6 +74,14 @@ task :new_page, :title do |t, args|
     page.puts "share: "
     page.puts "---"
   end
+end
+
+# usage rake gravatar
+desc "Generate gravatar url"
+task :gravatar do |t, args|
+  email = get_stdin("Email your email address: ")
+  hash = Digest::MD5.hexdigest(email)
+  puts "http://www.gravatar.com/avatar/#{hash}"
 end
 
 def get_stdin(message)
