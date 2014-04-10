@@ -19,3 +19,10 @@ http://www.gravatar.com/avatar/ffebdf905fae3278a260ed03c9d165c7
 
 ## Workflow
 Make a pull request to master with new authors, posts, or other edits.
+
+## Making changes to CSS (via LESS)
+Make your changes to the necessary LESS file in assets/less
+in the terminal, run grunt
+then run jekyll build
+then run jekyll serve to view your changes on localhost.
+commit your changes to github when finished.
