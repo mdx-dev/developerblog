@@ -1,4 +1,4 @@
-title:            The Dev's of Vitals
+title:            The Devs of <span>Vitals</span>
 description:      Developer blog.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
@@ -21,10 +21,10 @@ authors:
     display_name: Micah
     gravatar: http://www.gravatar.com/avatar/d1417fb0a0a205079e949a3ecfaee5f0
     email: osugodfan@gmail.com
-    web: http://www.goingupward.com/
+    web: http://www.meetmicah.com
     twitter: meetmicah
     github: meetmicah
-    bio: "hello world"
+    bio: "Micah is a UX/UI Developer for Vitals with a passion for making sure that design is not just about how it looks, but how it works."
   seven1m:
     name: Tim Morgan
     display_name: Timmy

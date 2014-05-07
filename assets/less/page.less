@@ -19,6 +19,9 @@ body {
 	float: none;
 	display: block;
 	.font-rem(24);
+	span {
+		color: @vitals;
+	}
 	@media @600px {
 		.grid(12,2);
 		.prefix(12,0.5);
@@ -400,6 +403,9 @@ body {
 	}
 }
 .article-wrap {
+	p+p {
+		margin-top: 0;
+	}
 	// Dotted line underlines for links
 	p > a,
 	li > a {
