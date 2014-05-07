@@ -22,7 +22,10 @@ Make a pull request to master with new authors, posts, or other edits.
 
 ## Making changes to CSS (via LESS)
 Make your changes to the necessary LESS file in assets/less
-in the terminal, run grunt
-then run jekyll build
-then run jekyll serve to view your changes on localhost.
+in the terminal:
+
+* run grunt
+* run jekyll build
+* run jekyll serve to view your changes on localhost.
+
 commit your changes to github when finished.
