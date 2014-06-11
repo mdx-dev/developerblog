@@ -13,6 +13,6 @@ image:
 ---
 
 {% for author_id in site.author_ids %}
-{% assign author = site.authors[author_id] %}
+  {% assign author = site.authors[author_id] %}
   [![{{ author.name}} ]({{ author.gravatar }})]({{ author.web }})
 {% endfor %}

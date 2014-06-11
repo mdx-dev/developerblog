@@ -1,6 +1,6 @@
 ---
 layout: post
-title: meetmicah
+author: meetmicah
 title: "My First Javascript Adventure"
 description: "Sometimes going the extra mile means gaining an extra headache. Usually worth it though, particularly if you actually accomplish something."
 tags: [javascript, jQuery, front-end]
