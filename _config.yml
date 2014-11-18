@@ -5,7 +5,7 @@ url:              http://mdx-dev.github.io
 disqus_shortname:
 
 # Owner/author information
-author_ids: [blainesch, meetmicah, seven1m]
+author_ids: [blainesch, meetmicah, seven1m, brandonwestcott]
 authors:
   blainesch:
     name: Blaine Schmeisser
@@ -43,6 +43,14 @@ authors:
     twitter: sequorveritas  
     github: toddman0430
     bio: "Holistics, heuristics and linguistics."
+  brandonwestcott:
+    name: Brandon Westcott
+    display_name: Brandon
+    gravatar: http://www.gravatar.com/avatar/4bb6394946ec0877b791135eec3f5d29
+    email: github@bwestcott.com
+    web: https://github.com/brandonwestcott
+    github: brandonwestcott
+    bio: "It's kind of fun to do the impossible"
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
