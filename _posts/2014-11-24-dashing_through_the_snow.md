@@ -3,7 +3,7 @@ layout: post
 author: toddman0430
 title: "Dashing through the snow."
 description: "Exceptionally Handsome and Interactive."
-tags: [dashing.io, sinatra, hotness, gridster,  batman.js, newrelic, rufus scheduler]
+tags: [dashing, sinatra, gridster, redis, batman.js, rufus scheduler]
 comments: true
 ---
 
