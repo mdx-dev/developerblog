@@ -1,7 +1,7 @@
 title:            The Devs of Vitals
 description:      Developer blog.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              '.'
+url:              'https://mdx-dev.github.io'
 disqus_shortname:
 
 # Owner/author information
