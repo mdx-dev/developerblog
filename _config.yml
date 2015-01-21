@@ -1,11 +1,11 @@
-title:            The Devs of <span>Vitals</span>
+title:            The Devs of Vitals
 description:      Developer blog.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://mdx-dev.github.io
+url:              ''
 disqus_shortname:
 
 # Owner/author information
-author_ids: [blainesch, meetmicah, seven1m, brandonwestcott]
+author_ids: [blainesch, meetmicah, toddman0430, brandonwestcott]
 authors:
   blainesch:
     name: Blaine Schmeisser
@@ -25,22 +25,13 @@ authors:
     twitter: meetmicah
     github: meetmicah
     bio: "Micah is a UX/UI Developer for Vitals with a passion for making sure that design is not just about how it looks, but how it works."
-  seven1m:
-    name: Tim Morgan
-    display_name: Timmy
-    gravatar: http://www.gravatar.com/avatar/c9badb8b30cf30d420552e026a921499
-    email: tim@timmorgan.org
-    web: https://github.com/seven1m
-    twitter: seven1m
-    github: seven1m
-    bio: "hello world"
   toddman0430:
     name: Todd Emory
     display_name: Todd
     gravatar: http://www.gravatar.com/avatar/b4b6eed817248ed27a9468bd004434b1
     email: ctemory7@gmail.com
     web: https://github.com/toddman0430
-    twitter: sequorveritas  
+    twitter: sequorveritas
     github: toddman0430
     bio: "Holistics, heuristics and linguistics."
   brandonwestcott:
