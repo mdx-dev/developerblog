@@ -1,5 +1,8 @@
 # Developer Blog
 
+## Deploying to staging
+Via hubot run: `@hubot deploy blog BRANCH to staging`, after running the command it'll take a few minutes for github to build it.
+
 ## Theme Readme
 For the theme's readme, view `/_layouts/README.md`.
 
