@@ -5,7 +5,7 @@ url:              'https://mdx-dev.github.io'
 disqus_shortname:
 
 # Owner/author information
-author_ids: [blainesch, meetmicah, toddman0430, brandonwestcott]
+author_ids: [blainesch, meetmicah, toddman0430, brandonwestcott, yitzschaffer]
 authors:
   blainesch:
     name: Blaine Schmeisser
@@ -42,6 +42,14 @@ authors:
     web: https://github.com/brandonwestcott
     github: brandonwestcott
     bio: "It's kind of fun to do the impossible"
+  yitzschaffer:
+    name: Yitz Schaffer
+    display_name: Yitz
+    gravatar: http://www.gravatar.com/avatar/6963ac463a71e6d5a3b4c7e3a4f6a626
+    email: yitzchak.schaffer@gmail.com
+    web: https://twitter.com/YitzOfTheBits
+    github: yitznewton
+    bio: "Fighting entropy since 1980"
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
